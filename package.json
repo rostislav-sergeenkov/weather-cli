@@ -1,7 +1,7 @@
 {
   "name": "weather-cli",
   "version": "1.0.0",
-  "description": "CLI for getting weather info",
+  "description": "CLI for getting weather info.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
